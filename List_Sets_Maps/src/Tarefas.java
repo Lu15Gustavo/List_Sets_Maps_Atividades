@@ -38,26 +38,6 @@ public class Tarefas {
                     i++;
                 }
         }   }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
         public void setDescricao(String descricao) {
             this.descricao = descricao;
         }
